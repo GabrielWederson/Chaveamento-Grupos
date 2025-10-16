@@ -4,9 +4,9 @@ import faseDegrupos.Grupos;
 
 public class Main {
     public static void main(String[] args) {
-        Grupos g1 = new Grupos();
+        Grupos grupoA = new Grupos();
 
-        g1.realizarpartida();
-        g1.tabela();
+        grupoA.realizarpartida();
+        grupoA.tabela();
     }
 }
